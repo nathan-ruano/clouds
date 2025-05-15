@@ -17,10 +17,7 @@ Elegimos es sitema operativo que vallamos a utilizar i le damos a crear
 
 # Descargar nextcloud
 
-El primer paso para descargar nuestra cloud es seguir los pasos de la siguiente guia
-[manual ](https://github.com/rusben/smx-m08/blob/main/docs/installacio-clouds.md)
-
-El primer pàso es actualizar. utilizando el comando sudo apt update.
+El primer pàso es entrar en la terminal i actualizar. utilizando el comando sudo apt update.
 
 ![Foto](1.png)
 
@@ -173,13 +170,9 @@ nos aparecera lo siguiente.
 
 I tendremos que darle a personalizar enlace i nos aparecera un menu en el que podremos modificar el enlace.
 
-# owncloud
+# Descargar owncloud
 
-
-El primer paso para descargar nuestra cloud es seguir los pasos de la siguiente guia
-[manual ](https://github.com/rusben/smx-m08/blob/main/docs/installacio-clouds.md)
-
-El primer pàso es actualizar. utilizando el comando sudo apt update.
+El primer pàso es Entrar a la terminal i actualizar utilizando el comando sudo apt update.
 
 ![Foto](1.png)
 
