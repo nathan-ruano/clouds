@@ -268,8 +268,59 @@ Una vez descimprimido aplicamos los siguientes permisos.
 
 I entramos a la direccion http://localhost i nos aparecera lo siguiente.
 
+![Foto](o1.png)
 
 
+## **subir archivos i crear carpetas**
+
+Para crear una carpeta tendremos que darle aal simbolo mas i darle folder escribir el nombre i darle a create
+
+![Foto](mas.PNG)
+
+
+Una vez creada la carpeta para subir archivos le damos otra vez al mas pero esta vez le damos a upload i elegimos el archivo.
+
+![Foto](mas.PNG)
+
+![Foto](o2.png)
+
+![Foto](03.png)
+
+## **compartir**
+Para compartir un archivo tendres que darle a los tres al simbolo que se muestra en la foto i escribir a quien se lo queremos mandar.
+
+![Foto](o4.png)
+
+![Foto](o5.png)
+
+
+## **usuarios i grupos**
+
+Para crear un usuario tendremos que darle a nuestro perfil, darle a users la cual nos llevara a una pantalla en la que para agregar a un usuario tendremos que esccribir su nombre i correo electronico i darle  a create.
+
+![Foto](o6.png)
+
+![Foto](o7.png)
+
+![Foto](o8.png)
+
+![Foto](o9.png)
+
+![Foto](o10.png)
+
+Para crear grupos le damos a add group ponemos el nombre que queramos.
+
+![Foto](o11.png)
+
+![Foto](o12.png)
+
+![Foto](o13.png)
+
+Para añadir un usuario a un grupo le damos a no group i elegimos el grupo.
+
+![Foto](o14.png)
+
+![Foto](o15.png)
 
 
 
