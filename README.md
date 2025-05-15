@@ -324,7 +324,7 @@ Para añadir un usuario a un grupo le damos a no group i elegimos el grupo.
 
 ## **roles**
 
-Para los roes tendremos que crear diversos grupos i ir añadiendo los usuarios.
+Para los roles tendremos que crear diversos grupos e ir añadiendo los usuarios.
 
 ![Foto](o16.png)
 
