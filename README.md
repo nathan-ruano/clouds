@@ -15,7 +15,7 @@ Elegimos es sitema operativo que vallamos a utilizar i le damos a crear
 
 ![Foto](0.4.PNG)
 
-# nextcloud
+# Descargar nextcloud
 
 El primer paso para descargar nuestra cloud es seguir los pasos de la siguiente guia
 [manual ](https://github.com/rusben/smx-m08/blob/main/docs/installacio-clouds.md)
@@ -89,6 +89,9 @@ Una vez descimprimido aplicamos los siguientes permisos.
 ![Foto](17.png)
 
 I entramos a la direccion http://localhost i nos aparecera lo siguiente.
+
+# Configuracion
+
 
 ![Foto](20.png)
 
