@@ -176,6 +176,106 @@ I tendremos que darle a personalizar enlace i nos aparecera un menu en el que po
 # owncloud
 
 
+El primer paso para descargar nuestra cloud es seguir los pasos de la siguiente guia
+[manual ](https://github.com/rusben/smx-m08/blob/main/docs/installacio-clouds.md)
+
+El primer pàso es actualizar. utilizando el comando sudo apt update.
+
+![Foto](1.png)
+
+Luego usamos sudo apt update.
+
+![Foto](2.png)
+
+Despues tendremos que descargar apache2 usando el comando sudo apt insatall -y apache2.
+
+![Foto](3.png)
+
+Despues instalaremos el servidor de la base de datos.
+
+![Foto](4.png)
+
+Instalaremos los requisitos previos de PPA.
+
+![Foto](1.2.png)
+
+Despues instalaremos las herramientas que necesitamos para trabajar con los paquetes PPA.
+
+![Foto](1.3.png)
+
+Actualizamos el repositorio.
+
+![Foto](1.4.png)
+
+Despues descargaremos las librerias PHP version 7.4
+
+![Foto](1.5.png)
+
+![Foto](1.6.png)
+
+![Foto](1.7.png)
+
+Despues tendremos que elegir la version de PHP que queremos utilizar para ello ponemos el siguiente comando el cual nos enseñara todos los PHP que tenemos i un numero al lado, buscamos la version 7.4 i ponemos el numero   que nos salga en mi caso es 1.
+
+![Foto](1.8.png)
+
+![Foto](PHP.png)
+
+Despues activaremos los modulos necesarios.
+
+![Foto](1.9.png)
+
+![Foto](1.10.png)
+
+I reiniciaremos el sistema.
+
+![Foto](7.png)
+
+Despues configuraremos el MySQL.
+
+![Foto](8.png)
+
+I crearemos la base de datos.
+
+![Foto](9.png)
+
+Creamos un usuario.
+
+![Foto](10.png)
+
+Le damos privilegios.
+
+![Foto](11.png)
+
+Salimos i provamos la conexion para ver si lo hemos echo bien.
+
+![Foto](12.png)
+
+luego descargamos los .zip de la cloud desde una de estos enlaces i copiaremos el zip en el directorio /var/www/html
+
+![Foto](14.png)
+
+[https://download.nextcloud.com/server/releases/latest.zip](https://download.owncloud.com/server/stable/owncloud-complete-20240724.zip)
+
+Una vez echo esto entraremos aldirectorio.
+
+![Foto](13.png)
+
+I descomprimimos el zip.
+
+![Foto](15.png)
+
+Borramos el archivo index.html del apache2.
+
+![Foto](16.png)
+
+Una vez descimprimido aplicamos los siguientes permisos.
+
+![Foto](17.png)
+
+I entramos a la direccion http://localhost i nos aparecera lo siguiente.
+
+
 
 
 
