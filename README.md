@@ -1,6 +1,23 @@
 # clouds-rusben
+## **Crear maquina virtual**
 
-El primer paso para descargar nuestra cloud es seguir los pasos de la siguiente guia depiendiendo de si queremos descargar owncloud o nextcloud
+EL primer paso para instalar nuestras clouds es crear la maquina virtual, para ello  entramos en el isardvdi i darle a escritorio nuevo
+
+![Foto](0.1.PNG)
+
+Despues le pondremos el nombre i la descripcion que nosotros queramos a la maquina.
+
+![Foto](0.2.PNG)
+
+Elegimos es sitema operativo que vallamos a utilizar i le damos a crear
+
+![Foto](0.3.PNG)
+
+![Foto](0.4.PNG)
+
+# nextcloud
+
+El primer paso para descargar nuestra cloud es seguir los pasos de la siguiente guia
 [manual ](https://github.com/rusben/smx-m08/blob/main/docs/installacio-clouds.md)
 
 El primer pàso es actualizar. utilizando el comando sudo apt update.
@@ -54,8 +71,6 @@ luego descargamos los .zip de la cloud desde una de estos enlaces i copiaremos e
 ![Foto](14.png)
 
 https://download.nextcloud.com/server/releases/latest.zip
-
-https://download.owncloud.com/server/stable/owncloud-complete-20240724.zip
 
 Una vez echo esto entraremos aldirectorio.
 
@@ -154,6 +169,8 @@ nos aparecera lo siguiente.
 ![Foto](38.png)
 
 I tendremos que darle a personalizar enlace i nos aparecera un menu en el que podremos modificar el enlace.
+
+# owncloud
 
 
 
